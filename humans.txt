@@ -1,8 +1,7 @@
 /* TEAM */
 Student: Miriam Leon
-		 Jessica Broumpton
-		 Michael Dryburgh
-Site: mirisleon@live.com, michaeldryburgh@gmail.com, jessicabroumpton@gmail.com
+	 Jessica Broumpton
+	 Michael Dryburgh
 Location: Westminster, Colorado.
 
 /* THANKS */
